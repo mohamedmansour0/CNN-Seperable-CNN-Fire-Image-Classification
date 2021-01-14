@@ -1,6 +1,11 @@
 # CNN-Seperable-CNN-Fire-Image-Classification
 Analyzing Fire and Smoke Images by Different Convolutional Neural Network Architectures
 
+# Datasets
+
+The Training and Validation Datasets are available at the following google drive link:
+(https://drive.google.com/drive/folders/1SHD6UygwLawzpktO8B3n4GaY6hwPX86x)
+
 # Convolutional Neural Network (CNN.ipnyb)
 Convolution neural networks normally use a kernel that has a depth identical to the input,
 suppose an image of a size 12 x 12 x 3, subjected to a kernel of size 5 x 5 x 3 that’s 
