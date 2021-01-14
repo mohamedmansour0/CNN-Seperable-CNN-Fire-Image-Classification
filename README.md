@@ -40,7 +40,7 @@ the traditional convolutional neural network method by over 22 times.
 The difference between the complexity of each architecture is affected by the square of the kernel size,
 and the number of channels in each layer as the following equation.
 
-C = (A/n) + (A/K2)
+C = (A/n) + (A/K^2)
 
 Whereas A is the number of multiplications by the traditional convolutional neural network with the same
 parameters, C  is the number of multiplications by the separable convolutional neural network, K is the 
